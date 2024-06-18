@@ -9,6 +9,7 @@ const Option3 = () => {
         
     return ( 
         <div>
+          <h1>Layout 3: Tabs</h1>
             <div className="tabs">
               {skills.map((tab, index) => (
                 <button

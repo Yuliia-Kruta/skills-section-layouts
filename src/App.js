@@ -7,8 +7,11 @@ function App() {
   return (
     <div className="App">
       <Option1 />
+      <br />
       <Option2 />
+      <br />
       <Option3 />
+      <br />
       <Option4 />
     </div>
   );

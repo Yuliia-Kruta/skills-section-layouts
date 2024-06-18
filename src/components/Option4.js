@@ -13,6 +13,7 @@ const Option4 = () => {
 
     return ( 
         <div className="accordion">
+          <h1>Layout 4: Accordion</h1>
             {skills.map((item, index) => (
               <div key={index} className="accordion-item">
                 <button className="accordion-header" onClick={() => toggleOpen(index)}>
