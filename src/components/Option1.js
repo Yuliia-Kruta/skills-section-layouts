@@ -1,4 +1,4 @@
-// Categorised list with icons (option 1)
+// Categorised list with icons 
 
 import { skills } from "../data/skills";
 
