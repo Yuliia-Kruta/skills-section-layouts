@@ -6,7 +6,10 @@ import Option4 from "./components/Option4";
 function App() {
   return (
     <div className="App">
+      <Option1 />
       <Option2 />
+      <Option3 />
+      <Option4 />
     </div>
   );
 }
